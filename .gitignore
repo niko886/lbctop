@@ -1,0 +1,8 @@
+.metadata
+.project
+.pydevproject
+.settings
+*.log
+RemoteSystemsTempFiles
+*.pyc
+conf.py
